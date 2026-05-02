@@ -1,0 +1,1 @@
+Flash the OS in this repo first, and then Flash a TI-84 Plus CE with these games via the TI Calc flasher after jailbreaking the calc with proper procedures.

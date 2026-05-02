@@ -1,0 +1,1 @@
+Just drag and drop the puzzpack file to the calculator via the TI connect software and it will show up in the apps.
